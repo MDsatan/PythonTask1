@@ -14,5 +14,14 @@ You are creating a folder where you are planning to place all of this personal c
 4) You'll create a folder with a name "Share" and place everything there
 
 ```
+**Task 2**
+
+```
+1) Рядом с папкой papka_dlya_sotrudnikov создайте файл sotrudniki-papki.csv
+2) В файле sotrudniki-papki должны быть перечислены имена папок, которые вы создали
+3) В шапке файла должно быть написано "Имя папки"
+
+```
+
 
 # Good Luck!
